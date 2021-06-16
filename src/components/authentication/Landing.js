@@ -65,7 +65,7 @@ const Landing = () => (
     <div className="container">
       <div className="row align-items-center">
         <div className="col-md-4">
-          <span className="copyright">Copyright &copy; Melberk 2021</span>
+          <span className="copyright">Copyright &copy; M&S 2021</span>
         </div>
         <div className="col-md-4">
           <ul className="list-inline social-buttons">
